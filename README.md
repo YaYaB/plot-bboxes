@@ -37,7 +37,7 @@ optional arguments:
 
 ```
 
-Please refer to [here](https://github.com/YaYaB/plot-bboxes/examples) for examples.
+Please refer to [here](https://github.com/YaYaB/plot-bboxes/tree/master/examples) for examples.
 
 
 ## Meta
