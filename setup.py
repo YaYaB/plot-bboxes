@@ -18,7 +18,7 @@ setup(name='plot-bboxes',
                    'Operating System :: MacOS',
                    'Programming Language :: Python :: 3.5',
                    ],
-      install_requires=[],
+      install_requires=["opencv-python"],
       extras_require={},
       packages=find_packages(),
       entry_points={
